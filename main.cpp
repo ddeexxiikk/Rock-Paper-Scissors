@@ -65,8 +65,8 @@ int main()
         }
     }
     if(i_g>i_k)
-        cout << "Gratulacje. Wygrales z komputerem!";
+        cout << "Gratulacje. Wygrales z komputerem!" << endl;
     else
-        cout << "Komputer cie pokonal!";
+        cout << "Komputer cie pokonal!" << endl;
     return 0;
 }
